@@ -15,5 +15,31 @@ Fazer um negrito usa-se ** palavra **
 
 Eu fiz o curso de git na **Geek University**
 
+# Outra forma 
+
+outra forma para criar negrido e itálico
+
+__Geek University__ tem os *melhores cursos*
+
+# Links
+
+para criar o link usa-se [Meu currículo online] e (https://schad17github.io)
+
+##### Exemplo :
+
+[Meu currículo online](https://schad17.github.io "Meu currículo online")
+
+Para adiocionar taito bastar dar espaço e usar " " para escreve a refêrencia
+
+Outra forma de colocar o link : <>
+
+##### Exemplo :
+
+<https://github.com/SCHAD17>
+
+Pode colocar email também
+
+<schadracw@hotmail.com>
+
 
 
